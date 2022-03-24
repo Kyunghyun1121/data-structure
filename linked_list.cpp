@@ -85,7 +85,7 @@ void delet(int n) {
 
 }
 
-void delet_n(int n) {//n¹ø¤Š µ¥ÀÌÅÍ »èÁ¦
+void delet_n(int n) {//nÂ¹Ã¸Â¤Å  ÂµÂ¥Ã€ÃŒÃ…Ã Â»Ã¨ÃÂ¦
 	int coun = 0;
 	temp = head;
 
