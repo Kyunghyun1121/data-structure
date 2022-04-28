@@ -26,9 +26,6 @@ int main() {
 		}
 		arr[rm] = rem;
 
-		for (int a = 0; a < 10; a++) {
-			cout << arr[a] << " ";
-		}cout << '\n';
 	}
 
 	for (int a = 0; a < 10; a++) {
